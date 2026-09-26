@@ -1,0 +1,1 @@
+run_id,incident,condition,operator,head,start_utc,t_repro_s,t_root_cause_s,t_fix_s,t_total_s,oracle_pass,files_changed,lines_changed,unrelated_changes,rule_violations,interventions,bobcoins,recording_ref,archive_path,notes
